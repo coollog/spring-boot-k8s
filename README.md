@@ -33,6 +33,8 @@ curl localhost:8080
 <!-- Run a @springboot app on #Kubernetes in seconds @kubernetesio #jib #java -->
 Give it a [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Run+a+%40springboot+app+on+%23Kubernetes+in+seconds+%40kubernetesio+%23jib+%23java&url=https://github.com/coollog/spring-boot-k8s&hashtags=docker)
 
+*For Gradle just run `./gradlew jib --image=$IMAGE` intead.*
+
 ## More information
 
 Learn [more about Jib](https://github.com/GoogleContainerTools/jib).
