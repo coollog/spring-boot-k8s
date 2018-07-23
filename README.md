@@ -4,10 +4,10 @@ This is an example of how to easily build a Docker image for a Spring Boot appli
 
 Read more about Jib at the [official blog post](https://cloudplatform.googleblog.com/2018/07/introducing-jib-build-java-docker-images-better.html).
 
-<!-- Dockerize and deploy a @springboot app to #Kubernetes @kubernetesio @docker #jib -->
+<!-- Dockerize and deploy a @springboot app to #Kubernetes in seconds @kubernetesio @docker #jib -->
 <p align="center">
-    <a href="https://twitter.com/intent/tweet?text=Dockerize%20and%20run%20a%20%22Hello%20World%22%20%40Java%20%40micronautfw%20app%20with%20%23Jib%20in%20seconds&url=https://asciinema.org/a/191805&hashtags=docker,kubernetes">
-    <img src="https://github.com/coollog/micronaut-jib/blob/master/dockerize-micronaut-jib.gif?raw=true" width="600" alt="Dockerize Micronaut app with Jib">
+    <a href="https://twitter.com/intent/tweet?text=Dockerize+and+deploy+a+%40springboot+app+to+%23Kubernetes+in+seconds+%40kubernetesio+%40docker+%23jib&url=https://asciinema.org/a/192977">
+    <img src="https://github.com/coollog/spring-boot-k8s/blob/master/dockerize-spring-boot-jib.gif" width="600" alt="Dockerize Spring Boot app with Jib and deploy to Kubernetes">
   </a>
 </p>
 
@@ -30,8 +30,8 @@ curl localhost:8080
 > Greetings from Kubernetes!
 ```
 
-<!-- Run a @springboot app on #Kubernetes in seconds @kubernetesio #jib #java-->
-Give it a [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Run%20a%20%22Hello%20World%22%20%40java%20%40micronautfw%20app%20on%20%23Kubernetes%20with%20%23Jib%20in%20seconds&url=https://github.com/coollog/micronaut-jib&hashtags=docker,kubernetes)
+<!-- Run a @springboot app on #Kubernetes in seconds @kubernetesio #jib #java -->
+Give it a [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Run+a+%40springboot+app+on+%23Kubernetes+in+seconds+%40kubernetesio+%23jib+%23java&url=https://github.com/coollog/spring-boot-k8s&hashtags=docker)
 
 ## More information
 
